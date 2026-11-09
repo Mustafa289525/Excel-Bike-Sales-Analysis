@@ -58,10 +58,10 @@ Created a Bike Sales Dashboard with visualizations covering:
 - `Excel Project Dataset.xlsx` – Complete Excel workbook containing the dataset, working sheet, Pivot Tables, charts, and dashboard.
 
 ## Dashboard Preview
-![Bike Sales Dashboard](Screenshot%202026-11-09%20134140.png)
+![Bike Sales Dashboard](Bike-Sales-Dashboard.png)
 
 ## Data Analysis Preview
-![Bike Sales Analysis](Screenshot%202026-11-09%20134210.png)
+![Bike Sales Analysis](Bike-Sales-Analysis.png)
 
 ## Conclusion
 This project demonstrates practical data analysis skills using Microsoft Excel, including data preparation, Pivot Table analysis, data visualization, and dashboard development.
